@@ -6,3 +6,4 @@ Task 4: This script display current directory contents, including hidden files (
 Task 5: This script display current directory contents including hidden files, with user and group IDs displayed numerically
 Task 6: This script  creates a directory named my_first_directory in the /tmp/ directory.
 Task 7: This script Move the file betty from /tmp/ to /tmp/my_first_directory.
+Task 8: This scrip deletes the file betty, The file betty is in /tmp/my_first_directory
