@@ -11,3 +11,4 @@
 - Task 8: This script writes into the file "ls_cwd_content" the result of the command ls -la.
 - Task 9: This script duplicates the last line of the file "iacta".
 - Task 10: This script deletes all the regular files with a .js extension that are present in the current directory and all its subfolders.
+-Task 11: This script counts the number of directories and sub-directories in the current directory.
