@@ -5,3 +5,4 @@
 - Task 2: This script displays the content of the /etc/passwd file.
 - Task 3: This script display the content of /etc/passwd and /etc/hosts.
 - Task 4: This script display the last 10 lines of /etc/passwd.
+- Task 5: This script display the first 10 lines of /etc/passwd.
