@@ -22,3 +22,4 @@
 - Task 19: This script replace all characters A and c from input to Z and e respectively.
 - Task 20: This script removes all letters c and C from input.
 - Task 21: This script reverse its input.
+- Task 22: This script display all users and their home directories, sorted by users.
