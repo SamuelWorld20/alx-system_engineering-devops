@@ -13,3 +13,4 @@
 - Task 11: This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users while the regular files remains unchanged.
 - Task 12: This script creates a directory called my_dir with permissions 751 in the working directory.
 - Task 13: This script changes the group owner to school for the file hello.
+- Task 14: This script changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
