@@ -23,3 +23,4 @@
 - Task 20: This script removes all letters c and C from input.
 - Task 21: This script reverse its input.
 - Task 22: This script display all users and their home directories, sorted by users.
+- Task 23: This script finds all empty files and directories in the current directory and all sub-directories.
