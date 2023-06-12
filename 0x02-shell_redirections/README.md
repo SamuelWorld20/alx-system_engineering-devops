@@ -21,3 +21,4 @@
 - Task 18: This script display all lines of the file /etc/ssh/sshd_config starting with a letter.
 - Task 19: This script replace all characters A and c from input to Z and e respectively.
 - Task 20: This script removes all letters c and C from input.
+- Task 21: This script reverse its input.
