@@ -4,6 +4,6 @@ Welcome to this Project by alx this is simply going to contain projects on syste
 
 /* ## Projects */
 
-- Shell,basics
-- Shell, I/O Redirections and filters
-
+- Shell,basics.
+- Shell, I/O Redirections and filters.
+- Shell, permissions.
