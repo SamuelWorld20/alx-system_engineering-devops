@@ -10,3 +10,4 @@
 - Task 8: This script sets the permission to the file hello; with owner & group with no permission while other users has permissions.
 - Task 9: This script sets the mode of the file hello to -rwxr-x-wx
 - Task 10: This script sets the mode of the file hello the same as olleh’s mode.
+- Task 11: This script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users while the regular files remains unchanged.
