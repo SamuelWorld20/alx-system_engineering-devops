@@ -18,3 +18,4 @@
 - Task 15: This script display the number of lines that contain the pattern “bin” in the file "/etc/passwd".
 - Task 16: This script display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 - Task 17: This script display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+- Task 18: This script display all lines of the file /etc/ssh/sshd_config starting with a letter.
