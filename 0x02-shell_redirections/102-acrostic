@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$input" | sed 's/^\(.\).*/\1/' | tr -d '\n'
+echo "$input" | awk '{printf "%s", substr($0,1,1)}'
