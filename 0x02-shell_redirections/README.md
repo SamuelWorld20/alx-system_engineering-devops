@@ -26,3 +26,4 @@
 - Task 23: This script finds all empty files and directories in the current directory and all sub-directories.
 - Task 24: This script lists all the files with a .gif extension in the current directory and all its sub-directories.
 - Task 25: This script decodes acrostics that use the first letter of each line.
+- Task 26: This script parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
