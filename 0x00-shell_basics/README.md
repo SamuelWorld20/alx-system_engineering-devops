@@ -10,3 +10,4 @@ Task 8: This script deletes the file betty, The file betty is in /tmp/my_first_d
 Task 9: This script Delete the directory my_first_directory that is in the /tmp directory.
 Task 10: This script changes the working directory to the previous one.
 Task 11: This script list all files in the current directory and the parent of the working directory and the /boot directory 
+Task 12: This script prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when you run the script.
