@@ -16,3 +16,4 @@
 - Task 13: This script prints a number with two decimal places, followed by a new line.
 - Task 14: This script converts a number from base 10 to base 16.
 - Task 15: This script encodes and decodes text using the rot13 encryption. Assume ASCII.
+- Task 16: This script prints every other line from the input, starting with the first line.
