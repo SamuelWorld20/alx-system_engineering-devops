@@ -7,3 +7,4 @@
 - Task 4: This script lists environment variables.
 - Task 5: This script lists all local variables and environment variables, and functions.
 - Task 6: This script creates a new local variable.
+- Task 7: This script creates a new global variable.
