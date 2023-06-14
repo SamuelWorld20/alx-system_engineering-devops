@@ -15,3 +15,4 @@
 - Task 12: This script prints all possible combinations of two letters, except oo.
 - Task 13: This script prints a number with two decimal places, followed by a new line.
 - Task 14: This script converts a number from base 10 to base 16.
+- Task 15: This script encodes and decodes text using the rot13 encryption. Assume ASCII.
