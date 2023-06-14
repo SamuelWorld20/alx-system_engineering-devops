@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Local Variables:" & echo "$(set)" & echo & echo "Environment Variables:" & echo "$(env)" & echo & echo "Functions:" & echo "$(declare -F)"
