@@ -10,3 +10,4 @@
 - Task 7: This script creates a new global variable.
 - Task 8: This script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 - Task 9: This script prints the result of POWER divided by DIVIDE, followed by a new line.
+- Task 10: This script displays the result of BREATH to the power LOVE
