@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This script lists the content of a current dir
+ls
