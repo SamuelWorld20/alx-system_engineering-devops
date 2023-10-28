@@ -2,7 +2,8 @@
 # This script lists the content of a current dir
 for file in *
 do
-	if [[ $file == *-* ]]; then
+	if [[ $file == *-* ]]
+	then
 		name_after_dash="${file#*-}"
 		echo "$name_after_dash"
 	fi
