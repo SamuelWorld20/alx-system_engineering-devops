@@ -1,5 +1,6 @@
+#usr/bin/pup
 # installs flask package
 package { 'flask':
-ensure   => 'latest',
+ensure   => '2.1.0',
 provider => 'pip3',
 }
