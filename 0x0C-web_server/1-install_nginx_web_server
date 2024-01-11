@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+# Installs nginx on server
+# Nginx listening on port 80
+# Returns a page containg 'Hello World!' when querying Nginx at
+# its root / with a GET request using curl
+
+# update the package
+apt-get -y update
+# install nginx
+apt-get -y install nginx
+# Configure Nginx to listen on port 80
+sed -i "21s/^listen .*/listen 80" /etc/nginx/sites-enabled/defult
+ufw allow 'Nginx HTTP'
+echo 'Hello World!' > /var/www/html/index.nginx-debian.html
+service nginx start
