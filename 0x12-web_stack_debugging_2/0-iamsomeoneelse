@@ -1,9 +1,4 @@
 #!/usr/bin/env bash
 # script runs whoami under the user passed as argument
 
-if [ "$#" -ne 1 ]; then
-	echo "Usage: $0 <username>"
-	exit 1
-fi
-
-su - $1 -c "whoami"
+su - "$1" -s /bin/bash -c "whoami"
