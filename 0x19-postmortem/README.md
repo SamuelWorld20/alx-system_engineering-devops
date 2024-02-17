@@ -1,3 +1,4 @@
+![200w](https://github.com/SamuelWorld20/alx-system_engineering-devops/assets/90863438/8b3d9d7c-8738-4882-86da-ebd55315fd80)
 # Server overload that led to system crash
 
 ## Issue Summary
